@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@700&family=Roboto:wght@900&family=Secular+One&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+button{
+  padding: 22px;
+  width: 66px;
+  margin: 0px 2px;
+  border: 2px solid blue;
+  border-radius:40%;
+  cursor: pointer;
+}
+.row{
+  margin: 5px 0px;
+}
+.row input{
+  padding: 11px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 25px;
+}
